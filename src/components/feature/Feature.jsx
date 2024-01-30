@@ -8,4 +8,4 @@ export const Feature = () => {
     </div>
   )
 }
-export default Feature
+export default Feature;

@@ -8,4 +8,4 @@ export const Blog = () => {
     </div>
   )
 }
-export default Blog
+export default Blog;

@@ -8,4 +8,4 @@ export const Article = () => {
     </div>
   )
 }
-export default Article
+export default Article;
